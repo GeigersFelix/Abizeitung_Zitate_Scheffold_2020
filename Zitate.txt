@@ -19,7 +19,7 @@ Rauhut: „Ja, aber keine, die dein Gewicht erfassen kann“
 
 Vorgeschichte: Herzel nennt Niklas immer Sabine (laaange Geschichte)
 Privatgespräch zw. Nicol und Lorena: „Ja, ich muss mal Sabine fragen“
-Niklas: „Ich hab mich grad echt angesprochen gefühlt“
+Niklas(verwirrt): „Ich hab mich grad echt angesprochen gefühlt“
 
 
 Wiker (beim Chemie-Versuch): „Eigentlich benutzt man Ethanol, aber wir nehmen 	Spiritus. Das ist billiger“
@@ -386,8 +386,7 @@ Dani: "ACHSO"
 
 
 Gesprächsthema: Religion
-Lehrer fragt Malin, zu welcher sie gehört.
-Malin (evangelisch): "Türkei"
+Malin: "Es gibt auch Menschen, die von Religion her Türke sind"
 
 
 Stunde nach der Lehrprobe von Frau Hilsenbeck, es gibt Crepes für uns und die anderen Referendare, die Klasse spielt ein Quiz.
@@ -400,3 +399,6 @@ Fischer: "Den Spruch hab ich mir gemerkt"
 Lorena: "Des war doch nur Spaß"
 *Fischer immernoch schwer getroffen*
 Lorena: "Stellen sie sich ned so an"
+
+Hr. Fischer: "Lilly, was braucht man, um ein Dreieck zu zeichnen?"
+Lilly: "Ein Geodreieck und einen Stift"
